@@ -25,6 +25,8 @@ The endpoint to input user skills.
 ```
 
 ### POST `/api/user-skills/add` response
+Response from a request to create a user skill that shows whether the skill was added successfully
+
 ```json
 // request body in JSON
 {
